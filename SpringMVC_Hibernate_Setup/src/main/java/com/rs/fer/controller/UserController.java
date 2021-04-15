@@ -24,5 +24,5 @@ import com.rs.fer.vo.UpdateProfileVo;
 
 @Controller
 public class UserController {
-
+sysout
 }
